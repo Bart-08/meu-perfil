@@ -10,6 +10,6 @@ Meu nome é Arthur Garcia
 
 00001102300962SP@al.educacao.sp.gov.br
 
-@arthur_sx008https
-  ![://media1.tenor.com/m/mioupxUvjRoAAAAC/darius.gif
-](link GIF do Tenor)# meu-perfil
+@arthur_sx008     
+
+![://media1.tenor.com/m/mioupxUvjRoAAAAC/darius.gif](link GIF do Tenor)# meu-perfil
